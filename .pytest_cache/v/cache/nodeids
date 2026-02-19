@@ -1,0 +1,5 @@
+[
+  "tests/test_auto_minify_html.py::TestHtml::test_basic",
+  "tests/test_auto_minify_html.py::TestHtml::test_empty",
+  "tests/test_auto_minify_html.py::TestHtml::test_type_error"
+]
